@@ -15,6 +15,6 @@ The project involved:
 - Increased matching satisfaction scores by 25%.
 
 ## Screenshot
-![Mentor-Mentee](project1.png)
+![Mentor-Mentee](pic02.jpg)
 
 [Back to Portfolio](README.md)

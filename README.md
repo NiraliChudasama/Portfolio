@@ -23,7 +23,6 @@ Collaborative Decision-Making, Critical Thinking, Communication
 # PROJECTS
 
 ### 1. **Automated Mentor-Mentee Matching Algorithm**
-[(pic02.png)]  
 Developed a solution to automate the mentor-mentee matching process for Humberâ€™s Polytechnic Mentorship Program.  
 **Tools Used**: Python  
 [View Details](mentor-mentee-details.md)
@@ -31,7 +30,7 @@ Developed a solution to automate the mentor-mentee matching process for Humberâ€
 ---
 
 ### 2. **Nursing Home Staffing Demand & Sales Optimization**
-[![Nursing Home Staffing Demand](project2.png)](nursing-home-details.md)  
+
 Analyzed contractor utilization patterns across U.S. nursing homes to recommend strategies for market expansion.  
 **Tools Used**: Python, SQL, Excel  
 [View Details](nursing-home-details.md)
@@ -39,7 +38,7 @@ Analyzed contractor utilization patterns across U.S. nursing homes to recommend 
 ---
 
 ### 3. **Personalized Travel Industry Dashboard**
-[![Personalized Travel Dashboard](project3.png)](travel-dashboard-details.md)  
+
 Built a Power BI dashboard to analyze travel destinations' cost-effectiveness.  
 **Tools Used**: Power BI  
 [View Details](travel-dashboard-details.md)

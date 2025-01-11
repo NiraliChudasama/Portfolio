@@ -45,6 +45,11 @@ Built a Power BI dashboard to analyze travel destinations' cost-effectiveness.
 [View Details](travel-dashboard-details.md)
 
 
+## GET IN TOUCH
+- **Email**: [niralichudasama22@gmail.com](mailto:niralichudasama22@gmail.com)
+- **LinkedIn**: [linkedin.com/in/nirali-chudasama-businessanalyst](https://www.linkedin.com/in/nirali-chudasama-businessanalyst/)
+  
+
 
 
 

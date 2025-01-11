@@ -23,7 +23,7 @@ Collaborative Decision-Making, Critical Thinking, Communication
 # PROJECTS
 
 ### 1. **Automated Mentor-Mentee Matching Algorithm**
-[![Automated Mentor-Mentee Matching Algorithm](project1.png)](mentor-mentee-details.md)  
+[(pic02.png)]  
 Developed a solution to automate the mentor-mentee matching process for Humber’s Polytechnic Mentorship Program.  
 **Tools Used**: Python  
 [View Details](mentor-mentee-details.md)

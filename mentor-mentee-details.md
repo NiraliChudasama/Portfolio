@@ -20,22 +20,19 @@ Mentees: "Where do you aspire to work after graduation?"
 Mentors: "Describe your professional background."
 
 Using techniques like tokenization and keyword extraction, I derived key insights from the text data to align mentees’ career goals with mentors’ areas of expertise.
-
-
+---
 **Custom Matching Algorithm**
 
 **Structured Criteria:** Prioritized career development goals, academic program alignment, and Humber Learning Outcomes (HLOs).
 
 **Unstructured Data:** Incorporated text analysis to ensure personalized and relevant matches.
-
-
+---
 **ADMIN GRAPHICAL USER INTERFACE DEVELOPEMENT**
 
 I created a user-friendly GUI for program administrators to:Visualize mentor-mentee matches, including match scores and criteria used.
 
 Generate automated reports to streamline program management.
-
-
+----
 **AGILE PROJECT MANAGEMENT**
 To ensure the project stayed on track, we followed agile practices, breaking the work into four key sprints:
 

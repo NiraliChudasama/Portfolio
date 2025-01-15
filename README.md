@@ -1,9 +1,10 @@
 # NIRALI CHUDASAMA
 **DATA ANALYST PROFESSIONAL | 2+ YEARS OF EXPERIENCE**
+**Welcome to my Portfolio**
 <table>
   <tr>
     <td>
-      Welcome to my portfolio! "A portfolio showcasing my expertise in business analytics, data visualization, and project management. Explore my data-driven projects, resume, and contact details, all designed to reflect my passion for turning insights into impact."
+      "A portfolio showcasing my expertise in business analytics, data visualization, and project management. Explore my data-driven projects, resume, and contact details, all designed to reflect my passion for turning insights into impact."
     </td>
     <td>
       <img src="./profile.jpg" alt="Nirali Chudasama" width="200">

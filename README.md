@@ -6,9 +6,10 @@
   <img src="pic01.jpg" alt="Nirali Chudasama" style="float: right; margin-left: 70px; width: 350px;">
  Below are the highlights of my work, showcasing advanced analytics skills and actionable insights tailored to drive business outcomes.
  </p>
-
 -----
+
 **Brief Introduction**
+
 Hello, I'm Nirali Chudasama, an enthusiastic Data Analyst with a passion for transforming complex data into actionable insights. With a Master's degree in Applied Statistics from Sardar Patel University and Post-Grad in Business Insights and Analytics at Humber College, I bring a unique blend of statistical knowledge and practical business acumen to the table.I’m passionate about continuous learning and improving processes.
 
 With over 2 years of experience in gathering, analyzing, and visualizing data, I am committed to transforming complex datasets into actionable insights that drive strategic decision-making. My work spans across industries like healthcare and retail, where I’ve helped organizations unlock value from their data, leading to optimized processes and improved performance.

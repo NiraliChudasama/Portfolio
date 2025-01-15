@@ -4,13 +4,15 @@
   <tr>
     <td>
       Welcome to my portfolio! 
-     "A portfolio showcasing my expertise in business analytics, data visualization, and project management. Explore my data-driven projects, resume, and contact details, all designed to reflect my passion for turning insights into impact."
+    
+      "A portfolio showcasing my expertise in business analytics, data visualization, and project management. Explore my data-driven projects, resume, and contact details, all designed to reflect my passion for turning insights into impact."
     </td>
     <td>
       <img src="./profile.jpg" alt="Nirali Chudasama" width="200">
     </td>
   </tr>
 </table>
+
 -----
 Hello, I'm Nirali Chudasama, an enthusiastic Data Analyst with a passion for transforming complex data into actionable insights. With a Master's degree in Applied Statistics from Sardar Patel University and Post-Grad in Business Insights and Analytics at Humber College, I bring a unique blend of statistical knowledge and practical business acumen to the table.I’m passionate about continuous learning and improving processes.
 

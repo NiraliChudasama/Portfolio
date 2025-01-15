@@ -24,7 +24,7 @@ Collaborative Decision-Making, Critical Thinking, Communication
 
 ### 1. **Automated Mentor-Mentee Matching Algorithm**
 Developed a solution to automate the mentor-mentee matching process for Humberâ€™s Polytechnic Mentorship Program.  
-**Tools Used**: Python, Agile Project Management. 
+**Tools Used**: Python (NLTK), Agile Project Management, Text Mininig, Machine Learning 
 [View Details](mentor-mentee-details.md)
 
 ---
@@ -32,7 +32,7 @@ Developed a solution to automate the mentor-mentee matching process for Humberâ€
 ### 2. **Nursing Home Staffing Demand & Sales Optimization**
 
 Analyzed contractor utilization patterns across U.S. nursing homes to recommend strategies for market expansion.  
-**Tools Used**: Python, Excel  
+**Tools Used**: Python (Scikit Learn, Matplotlib),Advanced Excel  
 [View Details](nursing-home-details.md)
 
 ---

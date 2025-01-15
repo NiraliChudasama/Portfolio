@@ -1,5 +1,6 @@
 # NIRALI CHUDASAMA
 **DATA ANALYST PROFESSIONAL | 2+ YEARS OF EXPERIENCE**
+
 **Welcome to my Portfolio !!**
 <p>
   <img src="pic01.jpg" alt="Nirali Chudasama" style="float: right; margin-left: 70px; width: 350px;">

@@ -24,7 +24,7 @@ Collaborative Decision-Making, Critical Thinking, Communication
 
 ### 1. **Automated Mentor-Mentee Matching Algorithm**
 Developed a solution to automate the mentor-mentee matching process for Humber’s Polytechnic Mentorship Program.  
-**Tools Used**: Python  
+**Tools Used**: Python, Agile Project Management. 
 [View Details](mentor-mentee-details.md)
 
 ---

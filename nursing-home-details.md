@@ -17,8 +17,11 @@
 
 **Analyzed** seasonal patterns to detect peaks in contractor usage during Q1 and Q4, likely linked to flu outbreaks and holiday staffing shortages.
 
+---
+
 ## Tools Used: Python (Pandas, Matplotlib), SQL Server, MS Excel (Pivot Tables, Power Query).
 
+---
 ## Key Insights:
 Government-owned nursing homes have the highest contractor utilization rate (12.77%).
 
@@ -28,7 +31,6 @@ Larger facilities (100+ beds) should be prioritized for targeted sales efforts.
 
 Seasonal demand spikes require proactive onboarding strategies.
 
-**Deliverable:** Delivered a data-driven report with actionable recommendations to optimize Clipboard Health’s sales and staffing strategies.
 ---
 ## 🎯Skills Demonstrated
 

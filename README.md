@@ -1,5 +1,7 @@
-<img src="pic01.jpg" alt="Nirali Chudasama" align="right" width="170"/>
+<img src="pic01.jpg" alt="Nirali Chudasama" align="right" width="180"/>
+
 # Nirali Chudasama
+
 **DATA ANALYST PROFESSIONAL | 2+ YEARS OF EXPERIENCE**
 
 WELCOME TO MY PORFOLIO !!!

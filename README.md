@@ -32,7 +32,7 @@ Developed a solution to automate the mentor-mentee matching process for Humberâ€
 ### 2. **Nursing Home Staffing Demand & Sales Optimization**
 
 Analyzed contractor utilization patterns across U.S. nursing homes to recommend strategies for market expansion.  
-**Tools Used**: Python, SQL, Excel  
+**Tools Used**: Python, Excel  
 [View Details](nursing-home-details.md)
 
 ---

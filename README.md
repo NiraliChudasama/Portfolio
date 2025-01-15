@@ -1,8 +1,7 @@
 
 # Nirali Chudasama
-**DATA ANALYST PROFESSIONAL | 2+ YEARS OF EXPERIENCE**
-
 <img src="pic01.jpg" alt="Nirali Chudasama" align="right" width="200"/>
+**DATA ANALYST PROFESSIONAL | 2+ YEARS OF EXPERIENCE**
 
 WELCOME TO MY PORFOLIO !!!
 

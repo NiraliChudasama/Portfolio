@@ -22,17 +22,21 @@ States with high contractor demand represent key markets for Clipboard Health.
 Larger facilities (100+ beds) should be prioritized for targeted sales efforts.
 Seasonal demand spikes require proactive onboarding strategies.
 
-# Outcome: Delivered a data-driven report with actionable recommendations to optimize Clipboard Health’s sales and staffing strategies.
+**Deliverable:** Delivered a data-driven report with actionable recommendations to optimize Clipboard Health’s sales and staffing strategies.
 ---
 ## 🎯Skills Demonstrated
 
 **Data Analysis:** Proficient in handling and analyzing large datasets to uncover actionable trends.
+
 **Sales Optimization:** Identified high-value targets (regions and facilities) for market expansion.
+
 **Visualization:** Created data visualizations using Python and Excel to present findings effectively.
+
 **Strategic Insights:** Delivered recommendations based on contractor reliance, geographic trends, and facility segmentation.
 ----
 ## 🔗Explore My Code
 
 **Access the full implementation of this analysis in the project repository:** 
 [View My Repository](clipboard_health)
+
 [Back to Portfolio](README.md)

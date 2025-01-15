@@ -1,4 +1,4 @@
-# Clipboard Health Satffing Analysis
+# Clipboard Health Staffing Analysis
 ![nursing-home](pic03.jpg)
 
 ## GOAL: Uncover contractor utilization trends in U.S. nursing homes to optimize sales strategies.

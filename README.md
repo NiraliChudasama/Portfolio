@@ -1,17 +1,16 @@
 # NIRALI CHUDASAMA
 **DATA ANALYST PROFESSIONAL | 2+ YEARS OF EXPERIENCE**
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-    Welcome to my portfolio! 
-    
-    I specialize in leveraging data to uncover trends, solve complex business challenges, and drive strategic decision-making. Below are the highlights of my work, showcasing advanced analytics skills and actionable insights tailored to drive business outcomes.
-  
-  </div>
-  <div>
-    <img src="pic01.jpg" alt="Nirali Chudasama" style="border-radius: 50%; width: 150px;"/>
-  </div>
-</div>
+<table>
+  <tr>
+    <td>
+      Welcome to my portfolio! I specialize in leveraging data to uncover trends, solve complex business challenges, and drive strategic decision-making. Below are the highlights of my work, showcasing advanced analytics skills and actionable insights tailored to drive business outcomes.
+    </td>
+    <td>
+      <img src="./profile.jpg" alt="Nirali Chudasama" style="border-radius: 50%;" width="150">
+    </td>
+  </tr>
+</table>
 
 
 

@@ -4,7 +4,7 @@
 ## Client
 HUMBER POLYTECHNIC ADMIN DEPARTMENT
 
-## OverView
+## Overview
 As part of a career mentorship program, I developed an automated solution to simplify and improve the mentor-mentee matching process. This project focused on ensuring alignment between mentees’ aspirations and mentors’ expertise while addressing inefficiencies in traditional matching methods.
   
 The project involved:

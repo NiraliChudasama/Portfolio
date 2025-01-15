@@ -4,7 +4,7 @@
 **Welcome to my Portfolio !!**
 <p>
   I specialize in leveraging data to uncover trends, solve complex business challenges, and drive strategic decision-making. Below are the highlights of my work, showcasing advanced analytics skills and actionable insights tailored to drive business outcomes.
-  <img src="pic01.jpg" alt="Nirali Chudasama" style="float: right; margin-left: 120px; width: 1000px;">
+  <img src="pic01.jpg" alt="Nirali Chudasama" style="float: right; margin-left: 120px; width: 500px;">
 </p>
 
 -----

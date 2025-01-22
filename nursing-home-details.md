@@ -64,4 +64,4 @@ Seasonal demand spikes require proactive onboarding strategies.
 [Python code](clipboardHealth_Code.pdf)
 
 [Back to Portfolio](README.md)
-![Nursing-Home Page Views](https://komarev.com/ghpvc/?username=NiraliChudasama-mentor&color=green)
+

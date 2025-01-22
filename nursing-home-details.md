@@ -55,9 +55,13 @@ Seasonal demand spikes require proactive onboarding strategies.
 **Strategic Insights:** Delivered recommendations based on contractor reliance, geographic trends, and facility segmentation.
 
 ----
+
+
+
 ## 🔗Explore My Code
 
 **Access the full implementation of this analysis in the project repository:** 
 [Python code](clipboardHealth_Code.pdf)
 
 [Back to Portfolio](README.md)
+![Nursing-Home Page Views](https://komarev.com/ghpvc/?username=NiraliChudasama-mentor&color=green)

@@ -77,3 +77,5 @@ Final testing, report generation, and deployment.
 **Agile Practices:** Organized project milestones using sprints to manage deadlines effectively. 
 
 [Back to Portfolio](README.md)
+![Mentor-Mentee Page Views](https://komarev.com/ghpvc/?username=NiraliChudasama-mentor&color=green)
+

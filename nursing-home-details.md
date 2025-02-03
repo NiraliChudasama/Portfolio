@@ -63,5 +63,7 @@ Seasonal demand spikes require proactive onboarding strategies.
 **Access the full implementation of this analysis in the project repository:** 
 [Python code](clipboardHealth_Code.pdf)
 
+[Report](Clipboard_Health_Report.pdf)
+
 [Back to Portfolio](README.md)
 
